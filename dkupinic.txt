@@ -1,3 +1,6 @@
 (dkupinic.txt hab ich in github erstellt)
 git pull
 vi README.md
+git pull
+
+
