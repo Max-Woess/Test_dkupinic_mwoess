@@ -3,4 +3,26 @@ git pull
 vi README.md
 git pull
 
+git push (email)
+To https://github.com/Max-Woess/Test_dkupinic_mwoess.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Max-Woess/Test_dkupinic_mwoess.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+# Test_dkupinic_mwoess
+
+Übungen zu GIT
+
+Dino Kupinic
+Max Woess
+<<<<<<< HEAD
+dkupinic@htl-steyr.ac.at
+=======
+
+max.woess1105@gmail.com
+>>>>>>> 110bef2a0f80613b7b357544abe1326921c43c06
 
