@@ -2,3 +2,5 @@
 Übungen zu GIT
 
 Dino Kupinic
+Max Woess
+
