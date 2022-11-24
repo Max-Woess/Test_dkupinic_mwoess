@@ -4,4 +4,4 @@
 
 Dino Kupinic
 Max Woess
-dkupinic@htl-steyr.ac.at
+
